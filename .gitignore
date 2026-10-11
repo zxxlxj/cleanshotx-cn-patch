@@ -1,0 +1,13 @@
+# 构建产物
+build/
+*.dylib
+
+# 安装时自动生成的备份（含应用副本，切勿提交）
+backups/
+
+# 由 scripts/gen-strings.py 生成
+src/GeneratedCNTable.h
+
+# 系统 / 编辑器
+.DS_Store
+*.zip

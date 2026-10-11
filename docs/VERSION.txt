@@ -1,0 +1,26 @@
+CleanShot X 简体中文汉化补丁
+=================================
+
+已实测版本：CleanShot X 5.0
+历史支持版本：CleanShot X 4.8.8 / 4.7.4
+词条数量：1011 条（在本机应用二进制中覆盖率 100%）
+本版修订：v5.0-cn.1
+
+组成
+----
+- src/CleanShotCN.m          注入库源码：三条翻译通道 + 动态规则
+- src/translations.txt       词条表（唯一数据源，1011 条）
+- scripts/install.sh         一键安装（生成词条 → 编译 → 注入 → 装语言包 → 重签）
+- scripts/uninstall.sh       一键卸载
+- scripts/preflight.sh       兼容性预检（签名 / Hardened Runtime / entitlements）
+- scripts/build.sh           只编译 dylib（开发用）
+- scripts/gen-strings.py     词条表 → GeneratedCNTable.h + Localizable.strings
+- scripts/extract-strings.py 从应用二进制提取界面文案候选
+- scripts/check-coverage.py  词条覆盖率统计
+- scripts/dedupe-translations.py  词条去重
+- scripts/repair-preferences.sh   修复设置/快捷键保存异常
+
+注意
+----
+本项目不包含、不分发 CleanShot X 的任何官方文件。
+请在拥有正版授权的前提下自用，使用前自行备份应用。

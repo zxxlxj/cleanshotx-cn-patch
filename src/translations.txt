@@ -1,0 +1,1023 @@
+# CleanShot X 汉化词条表
+# 格式：英文原文<TAB>简体中文   以 # 开头的行是注释
+# 生成物：Localizable.strings（语言包）+ GeneratedCNTable.h（运行时表）
+
+General	通用
+Wallpaper	壁纸
+Shortcuts	快捷键
+Quick Access	快速访问
+Recording	录制
+Screenshots	截图
+Annotate	标注
+Cloud	云
+Advanced	高级
+About	关于
+Startup:	启动:
+Start at login	登录时启动
+Sounds:	声音:
+Play sounds	播放声音
+Shutter sound:	快门声:
+Menu bar:	菜单栏:
+Show icon	显示图标
+Export location:	导出位置:
+Desktop icons:	桌面图标:
+Hide while capturing	截图时隐藏
+After capture:	截图后:
+Here you can decide what should happen after taking a screenshot or recording a video.	在这里设置截图或录屏完成后的后续操作。
+Screenshot	截图
+Action	操作
+Show Quick Access Overlay	显示快速访问浮层
+Copy file to clipboard	复制文件到剪贴板
+Save	保存
+Upload to Cloud & copy link	上传到云并复制链接
+Open Annotate tool	打开标注工具
+Pin to the screen	钉在屏幕上
+Open Video Editor	打开视频编辑器
+Default	默认
+Desktop	桌面
+Choose...	选择…
+None	无
+Choose a wallpaper to display when desktop icons are hidden:	选择隐藏桌面图标时显示的壁纸：
+Desktop wallpaper	桌面壁纸
+Don't change the wallpaper when switching spaces	切换空间时不更换壁纸
+Custom wallpaper:	自定义壁纸:
+Plain color:	纯色:
+Window screenshots:	窗口截图:
+Transparent	透明
+With wallpaper	带壁纸
+Padding:	边距:
+Min	最小
+Max	最大
+Shadow:	阴影:
+Capture window shadow	捕捉窗口阴影
+Hold ⌥ (option) while taking a screenshot to disable shadow.	截图时按住 ⌥ (option) 可临时关闭阴影。
+Position on screen:	屏幕位置:
+Left	左侧
+Multi-display:	多显示器:
+Move to active screen	移动到当前活动屏幕
+Active screen is the screen where your cursor is pointing.	当前屏幕是鼠标指针所在的屏幕。
+Overlay size:	浮层大小:
+Auto-close:	自动关闭:
+Enable	启用
+Action:	操作:
+Save and Close	保存并关闭
+Interval:	间隔:
+30 seconds	30 秒
+Drag & drop:	拖放:
+Close after dragging	拖动后关闭
+Cloud upload:	云上传:
+Close after uploading	上传后关闭
+Save button behavior:	保存按钮行为:
+Save to "Export location"	保存到“导出位置”
+Video	视频
+GIF	GIF
+Retina:	Retina:
+Scale Retina videos to 1x	将 Retina 视频缩放为 1x
+Notifications:	通知:
+"Do Not Disturb" while recording	录制时开启“勿扰”
+Cursor:	光标:
+Highlight clicks	高亮点击
+Display recording time	显示录制时长
+Controls:	控制项:
+Show controls while recording	录制时显示控制条
+Options...	选项…
+Keyboard:	键盘:
+Show keystrokes	显示按键
+Show cursor	显示光标
+Recording area:	录制区域:
+Remember last selection	记住上次选择
+Dim screen while recording	录制时调暗屏幕
+Show countdown	显示倒计时
+Max resolution:	最大分辨率:
+Original	原始
+Set maximum resolution to reduce file size and upload time.	设置最大分辨率以减小文件大小和上传时间。
+Video FPS:	视频帧率:
+Audio:	音频:
+Computer Audio Settings...	电脑音频设置...
+Record audio in mono	以单声道录制
+Video Encoder:	视频编码器:
+Open Video Editor after recording	录制后打开视频编辑器
+Use Video Editor to change the recording quality, resolution and adjust audio settings.	使用视频编辑器更改录制质量、分辨率并调整音频设置。
+GIF FPS:	GIF 帧率:
+GIF quality:	GIF 质量:
+Optimize GIFs	优化 GIF
+Low	低
+High	高
+GIF size:	GIF 尺寸:
+800 x auto (default)	800 x 自动（默认）
+Set maximum resolution of your GIFs. Changing it will affect file size and quality. CleanShot will only downscale the GIF if needed.	设置 GIF 的最大分辨率。更改此项会影响文件大小和质量。CleanShot 只会在需要时缩小 GIF。
+Setting the quality to maximum can speed up the processing time, but it will increase file size.	将质量设为最高可加快处理速度，但会增加文件大小。
+Self-Timer interval:	延时截图间隔:
+5 Seconds	5 秒
+Crosshair mode:	十字准星模式:
+Show on screenshots	在截图中显示
+Scale Retina screenshots to 1x	将 Retina 截图缩放为 1x
+Color management:	色彩管理:
+Convert to sRGB profile	转换为 sRGB 色彩配置
+Frame:	边框:
+Add 1px border to all screenshots	为所有截图添加 1 像素边框
+Background:	背景:
+Freeze screen:	冻结屏幕:
+Freeze screen when taking a screenshot	截图时冻结屏幕
+Show magnifier	显示放大镜
+Disabled	已禁用
+File format:	文件格式:
+Need more precision?	需要更精确？
+Automagically select objects to capture with PixelSnap.	使用 PixelSnap 自动选择要捕捉的对象。
+Learn more	了解更多
+Learn more...	了解更多…
+This works in Fullscreen or Self-Timer modes only.	仅在「全屏」或「自拍定时器」模式下有效。
+Apply Background Tool preset to all screenshots. Create presets in Annotate. Hold ⇧ Shift while taking a screenshot to disable.	将背景工具预设应用到所有截图。可在标注中创建预设。截图时按住 ⇧ Shift 可临时关闭。
+Use this option to capture hover states, animations, or fast-moving content.	用此选项捕捉悬停状态、动画或快速变化的内容。
+Arrow tool:	箭头工具:
+Inverse arrow direction	反转箭头方向
+Press ⌥ (option) when drawing to invert the behavior.	绘制时按住 ⌥ (option) 可反转此行为。
+Pencil tool:	铅笔工具:
+Smooth drawing	平滑绘制
+Background tool:	背景工具:
+Remember if tool was opened	记住工具是否已打开
+Draw shadow on objects	为对象绘制阴影
+Canvas:	画布:
+Automatically expand	自动扩展
+Ensures all annotations fit by dynamically resizing canvas.	通过动态调整画布大小，确保所有标注都能放下。
+Accessibility:	辅助功能:
+Show color names	显示颜色名称
+Window:	窗口:
+Always on top	始终置顶
+Show Dock icon	显示 Dock 图标
+Sign In...	登录…
+Create an Account...	创建账户…
+Sign in to CleanShot Cloud	登录 CleanShot 云
+Create a free account to upload your screenshots or screen recordings from the app.	创建免费账户，即可从应用上传截图或屏幕录制。
+File name:	文件名:
+Edit	编辑
+Ask for name after every capture	每次捕捉后询问文件名
+Add "@2x" suffix to Retina screenshots	为 Retina 截图添加“@2x”后缀
+This option improves compatibility with displaying Retina screenshots in third-party apps.	此选项可提升第三方应用中查看 Retina 截图的兼容性。
+Copy to clipboard:	复制到剪贴板:
+File & Image (default)	文件和图像（默认）
+Adjust this option if you've encountered any issues with pasting from clipboard or clipboard managers.	如果从剪贴板或剪贴板管理器粘贴时遇到问题，可调整此选项。
+Pinned screenshots:	钉图:
+Rounded corners	圆角
+Shadow	阴影
+Border	边框
+Keep history:	保留历史:
+Never	永不
+1 day	1 天
+3 days	3 天
+1 week	1 周
+1 month	1 个月
+You can restore old files with "Capture History" option from the menu bar.	可通过菜单栏中的“截图历史”恢复旧文件。
+Text recognition:	文字识别:
+Language:	语言:
+Keep line breaks	保留换行
+Detect links	检测链接
+API:	API:
+Allow applications to control CleanShot	允许应用控制 CleanShot
+Dialogs:	对话框:
+Reset All Warning Dialogs	重置所有警告对话框
+⚙️  General	⚙️  通用
+All-In-One:	全能截图:
+Toggle Desktop Icons:	切换桌面图标:
+Open Capture History:	打开截图历史:
+Restore Last Capture:	恢复上次截图:
+📸  Screenshots	📸  截图
+Capture Area:	区域截图:
+Capture Previous Area:	截取上一区域:
+Capture Fullscreen:	全屏截图:
+Capture Window:	窗口截图:
+Self-Timer:	延时截图:
+Capture Area & Copy to Clipboard:	区域截图并复制到剪贴板:
+Capture Area & Save:	区域截图并保存:
+Capture Area & Upload to Cloud:	区域截图并上传到云:
+Capture Area & Annotate:	区域截图并标注:
+Capture Area & Pin to the Screen:	区域截图并钉到屏幕:
+🎥  Screen Recording	🎥  屏幕录制
+Record Screen / Stop Recording:	录屏 / 停止录制:
+Select Window:	选择窗口:
+Start Video Recording:	开始视频录制:
+Start GIF Recording:	开始 GIF 录制:
+Pause/Resume Recording:	暂停 / 继续录制:
+Restart Recording:	重新录制:
+Toggle Camera Fullscreen:	切换摄像头全屏:
+🖱  Scrolling Capture	🖱  滚动截图
+Scrolling Capture:	滚动截图:
+Start/Stop Capturing:	开始 / 停止捕捉:
+🔤  OCR	🔤  文字识别
+Capture Text:	文字识别:
+Capture Text With Line Breaks:	文字识别并保留换行:
+Capture Text Without Line Breaks:	文字识别不保留换行:
+🖼️  Quick Access Overlay	🖼️  快速访问浮层
+Hide/Show Overlays:	显示 / 隐藏浮层:
+Save All Overlays:	保存所有浮层:
+Close All Overlays:	关闭所有浮层:
+📌  Pin	📌  钉图
+Choose and Pin an Image:	选择并钉住图片:
+Toggle Pins Visibility:	显示 / 隐藏钉图:
+Close All Pins:	关闭所有钉图:
+Pin Last Screenshot:	钉住上一张截图:
+📝  Annotate	📝  标注
+Open File:	打开文件:
+Open From Clipboard:	从剪贴板打开:
+Annotate Last Screenshot:	标注上一张截图:
+Copy Object to Clipboard:	复制对象到剪贴板:
+Duplicate Object:	复制对象:
+Save:	保存:
+Save as:	另存为:
+Copy Screenshot to Clipboard:	复制截图到剪贴板:
+Upload to Cloud:	上传到云:
+Print:	打印:
+Pin to the Screen:	钉到屏幕:
+Add New Screenshot:	新增截图:
+Add Screenshot From File:	从文件添加截图:
+✏️  Annotate tools	✏️  标注工具
+Increase Tool Size:	增大工具尺寸:
+Decrease Tool Size:	减小工具尺寸:
+Background Tool:	背景工具:
+Move Tool:	移动工具:
+Crop & Resize Tool:	裁剪和调整大小工具:
+Draw Tool:	绘制工具:
+Highlighter Tool:	高亮工具:
+Line Tool:	直线工具:
+Text Tool:	文本工具:
+Arrow Tool:	箭头工具:
+Counter Tool:	编号工具:
+Ellipse Tool:	椭圆工具:
+Redaction Tool:	遮盖工具:
+Spotlight Tool:	聚光灯工具:
+Rectangle Tool:	矩形工具:
+Filled Rectangle Tool:	实心矩形工具:
+Record shortcut	记录快捷键
+Restore Defaults	恢复默认值
+Use System Default Shortcuts...	使用系统默认快捷键...
+Check for Updates	检查更新
+Visit our Website	访问网站
+Contact Us	联系我们
+Share my usage statistics	共享我的使用统计
+Help us improve CleanShot by allowing us to collect completely anonymous usage data.	允许收集完全匿名的使用数据，帮助改进 CleanShot。
+License Manager	许可证管理器
+Acknowledgments	鸣谢
+Unlink Device	解除设备关联
+What's New	更新内容
+Automatically check for updates	自动检查更新
+Automatically Detect Language	自动检测语言
+Hold ⇧ Shift while taking a screenshot to get a transparent background.	截图时按住 ⇧ Shift 可获得透明背景。
+Hold ⌥ (option) to keep the item on Overlay after dragging.	拖动后按住 ⌥ (option) 可将该项目保留在浮层上。
+Press with ⌥ (option) to choose the destination.	按住 ⌥ (option) 可选择保存位置。
+Disable this option to prevent external apps from controlling CleanShot via URL scheme API.	关闭此选项可阻止外部应用通过 URL scheme API 控制 CleanShot。
+Capture Area	区域捕捉
+Capture Fullscreen	全屏捕捉
+Capture Window	窗口捕捉
+Capture Previous Area	上次区域捕捉
+Capture Area & Copy to Clipboard	区域捕捉并复制到剪贴板
+Capture Area & Save	区域捕捉并保存
+Capture Area & Upload to Cloud	区域捕捉并上传到云
+Capture Area & Annotate	区域捕捉并标注
+Capture Area & Pin to the Screen	区域捕捉并钉在屏幕上
+Capture Area & Send to Raycast AI Chat	区域捕捉并发送到 Raycast AI 对话
+Capture Text	文字识别
+Capture Text With Line Breaks	文字识别（保留换行）
+Capture Text Without Line Breaks	文字识别（不保留换行）
+Scrolling Capture	滚动捕捉
+Record Screen / Stop Recording	录制屏幕 / 停止录制
+Record Computer Audio	录制电脑音频
+Record Microphone	录制麦克风
+Open Capture History	打开截图历史
+Restore Last Capture	恢复上次截图
+Toggle Desktop Icons	显示/隐藏桌面图标
+Hide Desktop Icons	隐藏桌面图标
+Show Desktop Icons	显示桌面图标
+Open Annotation Tool...	打开标注工具…
+Open Video Editor...	打开视频编辑器…
+Open File...	打开文件...
+Open From Clipboard	从剪贴板打开
+Choose From File...	从文件选择…
+Choose and Pin an Image	选择并钉住图片
+Pin Last Screenshot	钉住最后一张截图
+Pin to the Screen	钉在屏幕上
+Save All Overlays	保存所有浮层
+Close All Overlays	关闭所有浮层
+Hide/Show Overlays	隐藏/显示浮层
+Save as	另存为
+Save as...	另存为...
+Preferences	偏好设置
+Preferences...	偏好设置...
+Open System Settings	打开系统设置
+Open System Preferences	打开系统偏好设置
+Open Link in Browser	在浏览器中打开链接
+Open Quick Look (Space)	快速查看（空格）
+All-In-One	全能模式
+Self-Timer	自拍定时器
+Capture Text (OCR)	文字识别 (OCR)
+Record Screen	录制屏幕
+Stop Recording	停止录制
+Pause Recording	暂停录制
+Resume Recording	继续录制
+Open...	打开...
+Open from Clipboard	从剪贴板打开
+Pin to the Screen...	钉到屏幕...
+Capture History...	截图历史...
+About CleanShot...	关于 CleanShot...
+Check for Updates...	检查更新...
+Activate...	激活...
+Quit	退出
+Settings...	设置...
+Send To Raycast AI Chat...	发送到 Raycast AI 对话...
+Contact…	联系人…
+Passwords…	密码…
+Credit Card…	信用卡…
+AutoFill	自动填充
+Start Dictation…	开始听写…
+Emoji & Symbols	表情与符号
+Paste and Match Style	粘贴并匹配样式
+Select All	全选
+Find…	查找…
+Find and Replace…	查找与替换…
+Find Next	查找下一个
+Find Previous	查找上一个
+Use Selection for Find	使用所选内容查找
+Jump to Selection	跳到所选内容
+Spelling and Grammar	拼写和语法
+Show Spelling and Grammar	显示拼写和语法
+Check Document Now	立即检查文稿
+Check Spelling While Typing	键入时检查拼写
+Check Grammar With Spelling	随拼写检查语法
+Correct Spelling Automatically	自动纠正拼写
+Show Substitutions	显示替换
+Smart Copy/Paste	智能拷贝/粘贴
+Smart Quotes	智能引号
+Smart Dashes	智能破折号
+Smart Links	智能链接
+Data Detectors	数据检测器
+Text Replacement	文本替换
+Make Upper Case	转成大写
+Make Lower Case	转成小写
+Start Speaking	开始朗读
+Stop Speaking	停止朗读
+An external application wants to control CleanShot	有外部应用想要控制 CleanShot
+Don't Allow	不允许
+Launch & Allow	启动并允许
+Screen Recording	录制
+System Default	系统默认
+Flexible Space	弹性空间
+CleanShot requires Screen Recording permission	CleanShot 需要屏幕录制权限
+Launch at login	登录时启动
+Show menu bar icon	显示菜单栏图标
+Hide desktop icons while capturing	截图时隐藏桌面图标
+Shutter sound	快门声
+Export location	导出位置
+After Capture	截图后操作
+Sign in	登录
+CleanShot Cloud	CleanShot 云
+Set the default save location used when saving from the Quick Access Overlay, After Capture, and other Save actions across the app.	设置从快速访问浮层、截图后操作以及应用中其他保存操作保存文件时的默认位置。
+Decide what should happen after taking a screenshot or recording a video.	设置截图或录制视频完成后的后续操作。
+Set a custom wallpaper used to hide desktop icons and as the background behind window screenshots.	设置用于隐藏桌面图标、以及作为窗口截图背景的自定义壁纸。
+The menu bar icon will be hidden.	菜单栏图标将被隐藏。
+At least one action needs to be enabled	至少需要启用一个操作
+File Name	文件名
+File format	文件格式
+Customize…	自定义…
+Customize...	自定义…
+Clipboard	剪贴板
+Copy to clipboard	复制到剪贴板
+Capture History	截图历史
+Keep history	保留历史
+Text Recognition	文本识别
+Language	语言
+This option improves compatibility with displaying retina screenshots in third-party apps.	此选项可提升第三方应用中查看 Retina 截图的兼容性。
+Chinese (Simplified)	简体中文
+Keep screenshots	保留截图
+Ask for file name after each screenshot	每次截图后询问文件名
+Ask for file name	询问文件名
+Add "2x" suffix for Retina screenshots	为 Retina 截图添加「2x」后缀
+Files and images (default)	文件和图像（默认）
+Days	天
+Are you sure you want to enable this option?	确定要启用此选项吗？
+All warning dialogs are now enabled.	已启用所有警告对话框。
+Single track	单轨
+Close	关闭
+
+File name format	文件命名格式
+All warning dialogs that can be disabled by checking "Don't show again" are now enabled, and will be shown the next time they are applicable.	所有可通过勾选“不再显示”关闭的警告对话框已重新启用，之后遇到相关情况时会再次弹出。
+Allow URL scheme API	允许 URL Scheme API
+Disable this option to prevent external apps from controlling CleanShot via [URL scheme API](	关闭此项可阻止外部应用通过 [URL Scheme API](
+Show preferences	显示偏好设置
+Display recording time in menu bar	在菜单栏显示录制时长
+Custom wallpaper	自定义壁纸
+Update wallpaper when switching Spaces	切换空间时更新壁纸
+Hide desktop icons	隐藏桌面图标
+Position on screen	屏幕位置
+Set as default screenshot tool?	设为默认截图工具？
+You can access the app through the menu bar icon or by using the defined keyboard shortcuts.	你可以通过菜单栏图标或已设置的键盘快捷键来使用本应用。
+In order to show the Settings window again, launch CleanShot twice.	要再次显示设置窗口，请连续启动两次 CleanShot。
+Share usage statistics?	共享使用统计？
+Help us improve CleanShot by allowing us to collect **completely anonymous** usage data.	允许我们收集**完全匿名**的使用数据，帮助我们改进 CleanShot。
+Check for Updates…	检查更新…
+License Manager…	许可证管理器…
+Manage Account	管理账户
+Manage Account…	管理账户…
+Unlink Device…	解除设备关联…
+Sign up for free	免费注册
+Create a free account	创建免费账户
+Create an Account…	创建账户…
+Cloud Upload Disabled	云上传已禁用
+Uploading to the cloud has been disabled by your organization. Contact your administrator if you need access.	你的组织已禁用云上传。如需使用，请联系管理员。
+Need more from CleanShot Cloud?	需要更多 CleanShot 云功能？
+Unlimited storage	无限存储
+Delete some files or upgrade to Cloud Pro and have unlimited storage.	请删除部分文件，或升级到云专业版以获得无限存储。
+Turn any recording or screenshot into a shareable link for fast collaboration. Perfect for quick feedback, bug reports, or async communication.	把任意录屏或截图变成可分享的链接，方便快速协作。非常适合收集反馈、提交缺陷或异步沟通。
+View more settings on CleanShot Cloud…	在 CleanShot 云上查看更多设置…
+Download link (Pro)	下载链接（专业版）
+Set password: (Pro)	设置密码：（专业版）
+Copy link when upload starts	上传开始时复制链接
+Get notified when someone comments on your video.	当有人评论你的视频时收到通知。
+Show recently uploaded media	显示最近上传的媒体
+Update uploaded screenshot	更新已上传的截图
+Do you want to update the screenshot in Cloud?	要更新云端的这张截图吗？
+Link has been copied	链接已复制
+Text has been copied	文本已复制
+Uploading video…	正在上传视频…
+Uploading video	正在上传视频
+Preparing upload…	正在准备上传…
+Preparing upload	正在准备上传
+Your video is uploaded. The link has been copied to your clipboard.	视频已上传，链接已复制到剪贴板。
+Shortcut is reserved for macOS	该快捷键已被 macOS 占用
+Shortcut is used for another action	该快捷键已用于其他操作
+Use the same shortcut as macOS?	使用与 macOS 相同的快捷键？
+Do you want to assign system default shortcut to All-In-One mode?	要将系统默认快捷键分配给全能模式吗？
+Use old shortcut	使用旧快捷键
+Set new hotkey:	设置新快捷键：
+Type shortcut…	请按下快捷键…
+Show only command keys	仅显示命令键
+Ignore "After Capture" actions when using "Capture Area & …" shortcuts	使用“区域捕捉并…”快捷键时忽略“截图后操作”
+Record Screen (R)	录制屏幕 (R)
+Capture Area (A)	区域捕捉 (A)
+Capture Window (Space/W)	窗口捕捉 (空格/W)
+Capture Fullscreen (F)	全屏捕捉 (F)
+Capture Text (O)	文字识别 (O)
+Scrolling Capture (S)	滚动捕捉 (S)
+Play / Pause (Space)	播放 / 暂停（空格）
+Quick Access Overlay	快速访问浮层
+Do more with your screen captures! **Right-click** on the overlay to open the context menu.	让截图发挥更大作用！在浮层上**右键单击**即可打开上下文菜单。
+Large videos can be compressed to reduce file size. **Double-click** on the overlay to open Video Editor.	较大的视频可以压缩以减小体积。在浮层上**双击**即可打开视频编辑器。
+Press **Space** to preview taken screenshot.	按**空格**预览刚拍摄的截图。
+Press the **Pin icon** to keep it on the screen.	按**钉图图标**可将它固定在屏幕上。
+Lock and hide screenshot on mouse over	鼠标移入时锁定并隐藏截图
+Temporarily Hide	临时隐藏
+Estimated file size	预计文件大小
+Copy Screenshot to Clipboard	复制截图到剪贴板
+Copy Object to Clipboard	复制对象到剪贴板
+Paste From Clipboard	从剪贴板粘贴
+Copy to Clipboard	复制到剪贴板
+Export & Upload to Cloud	导出并上传到云
+Export & Upload to Cloud…	导出并上传到云…
+Upload to Cloud and exit	上传到云并退出
+Upload to Cloud with Options	带选项上传到云
+Upload to CleanShot Cloud	上传到 CleanShot 云
+Export Video & Upload to Cloud	导出视频并上传到云
+Export Current Frame as Image	导出当前帧为图片
+Export Current Frame as Image…	导出当前帧为图片…
+Choose export location	选择导出位置
+Choose export location and exit	选择导出位置并退出
+Revert to Original	恢复为原始状态
+Update with Current Color	更新为当前颜色
+Save as New Video	另存为新视频
+Save button behavior	保存按钮行为
+Save changes to the preset	保存对预设的修改
+Ask for destination	询问保存位置
+Ask for name & show advanced options	询问文件名并显示高级选项
+File & Cloud link	文件和云链接
+Annotate Last Screenshot	标注最后一张截图
+CleanShot Cloud link	CleanShot 云链接
+Window Screenshots	窗口截图
+These options are unavailable for window screenshots.	窗口截图不支持这些选项。
+Tip: You need to disable shadow as well if you don't want any padding.	提示：若不想保留任何边距，还需关闭阴影。
+Automatically apply preset to all screenshots:	自动将预设应用到所有截图：
+Screenshot quality	截图质量
+Scale Retina to 1x	将 Retina 缩放为 1x
+Show cursor on screenshots	在截图上显示鼠标指针
+Add New Preset...	新建预设…
+Add New Screenshot	添加新截图
+Add Screenshot From File	从文件添加截图
+Apply Previous Settings	套用上次的设置
+Enter preset name:	输入预设名称：
+Background preset	背景预设
+Background color	背景颜色
+Animation Settings	动画设置
+Counter settings	计数设置
+Starting number:	起始数字：
+Self-Timer interval	自拍定时器间隔
+Scroll Vertically or Horizontally	纵向或横向滚动
+Drag to capture the scrolling part of the screen.	拖动以捕捉屏幕中需要滚动的区域。
+Move cursor here to start scrolling	将鼠标移到此处开始滚动
+Slowly scroll down the content	缓慢向下滚动内容
+Only scrollable content should be selected. Any non-moving parts or scroll bar should not be present in your selection.	只应选中可滚动的内容。选区中不要包含静止不动的部分或滚动条。
+Currently, the following conditions may break the scrolling capture:	当前情况下，以下因素可能导致滚动捕捉失败：
+You can capture content in both vertical and horizontal orientations, but you can't switch directions during capture.	纵向和横向内容都可以捕捉，但捕捉过程中无法切换方向。
+You'll see a preview of your screenshot updated in real time. Scrolling too fast might result in breaking the capture process.	你会看到截图预览实时更新。滚动过快可能导致捕捉过程中断。
+Record in Studio Mode	以工作室模式录制
+Record System Audio	录制系统音频
+Record microphone	录制麦克风
+Record system audio	录制系统音频
+Include microphone	包含麦克风
+Include system audio	包含系统音频
+Microphone volume	麦克风音量
+Microphone volume:	麦克风音量：
+System audio volume	系统音频音量
+System audio volume:	系统音频音量：
+Merge audio to adjust the volume of each track separately:	合并音轨后可分别调整每条音轨的音量：
+Choose separate tracks to edit the microphone and system audio independently in video editing software.	选择分离音轨，即可在视频剪辑软件中分别编辑麦克风与系统音频。
+Microphone and system audio will remain on separate tracks.	麦克风与系统音频将保留在分离的音轨上。
+The audio tracks will not be merged. Your recording will be saved with the tracks separate.	音轨不会被合并。录制内容将以分离音轨的形式保存。
+Camera customization is only available for videos recorded in Studio Mode.	仅在工作室模式录制的视频才能自定义摄像头。
+Cursor customization is only available for videos recorded in Studio Mode.	仅在工作室模式录制的视频才能自定义鼠标指针。
+Keystroke customization is only available for videos recorded in Studio Mode.	仅在工作室模式录制的视频才能自定义按键显示。
+Follow Cursor is only available for videos recorded in Studio Mode.	仅在工作室模式录制的视频才能使用跟随鼠标。
+Record your video in Studio Mode to use this option.	以工作室模式录制视频才能使用此选项。
+What is Studio Mode?	什么是工作室模式？
+Camera recording was disabled for this recording.	本次录制已关闭摄像头。
+Keystroke capture requires Accessibility permission.	按键捕捉需要辅助功能权限。
+Auto-Scroll needs accessibility permissions	自动滚动需要辅助功能权限
+Studio Mode needs accessibility permissions	工作室模式需要辅助功能权限
+CleanShot needs accessibility permissions to display keystrokes while recording	CleanShot 需要辅助功能权限才能在录制时显示按键
+Hide cursor when not moving	鼠标静止时隐藏指针
+Hide cursor when typing	输入时隐藏指针
+Shrink camera on zoom	缩放时缩小摄像头画面
+Click on camera to toggle Full Screen	点击摄像头画面可切换全屏
+Toggle Camera Fullscreen	切换摄像头全屏
+Toggle Full Screen	切换全屏
+Toggle fullscreen	切换全屏
+Enter Full Screen	进入全屏
+Close Full Screen	退出全屏
+Start Video Recording	开始视频录制
+Recording screen	正在录制屏幕
+Drag to record a part of the screen.	拖动以录制屏幕的某个区域。
+Enable this option to record sound that comes from other applications.	启用此项可录制来自其他应用的声音。
+No microphone selected	未选择麦克风
+No microphone was selected for this recording.	本次录制未选择麦克风。
+Microphone is muted	麦克风已静音
+Your microphone is muted	你的麦克风已静音
+Microphone Disconnected	麦克风已断开
+Audio is muted in your project.	项目中的音频已静音。
+There is no audio in your video.	视频中没有音频。
+This video has no audio.	此视频没有音频。
+Do Not Record Microphone	不录制麦克风
+Do Not Record Audio	不录制音频
+Do Not Record Camera	不录制摄像头
+Don't Record Audio	不录制音频
+Don't Record Camera	不录制摄像头
+Continue Without Audio	不录制音频继续
+Remove the Audio	移除音频
+Can't merge audio tracks	无法合并音轨
+Merging audio...	正在合并音频…
+You can delete the recording or stop the GIF conversion and save it as a video instead.	你可以删除该录制，或停止 GIF 转换并改为保存为视频。
+CleanShot does not have access to the camera	CleanShot 没有摄像头访问权限
+CleanShot does not have access to the microphone	CleanShot 没有麦克风访问权限
+Please give CleanShot access to your camera in order to record. You will need to relaunch CleanShot after granting permission.	请授予 CleanShot 摄像头访问权限以便录制。授权后需要重新启动 CleanShot。
+Please give CleanShot access to your microphone in order to record your voice or system audio.	请授予 CleanShot 麦克风访问权限，以便录制你的声音或系统音频。
+You’ve enabled camera recording, but no microphone is selected. Select a mic to include sound in your video.	你已启用摄像头录制，但尚未选择麦克风。请选择麦克风以便在视频中包含声音。
+It appears that your microphone might be muted. Would you like to continue recording?	你的麦克风似乎处于静音状态。要继续录制吗？
+Your microphone has been disconnected during the recording. Do you want to continue recording without audio or stop the recording?	录制过程中麦克风已断开。你想不录音频继续录制，还是停止录制？
+No keystrokes were captured in this video.	此视频未捕捉到任何按键。
+The recording might stop unexpectedly and you may lose the file.	录制可能意外停止，你可能会丢失文件。
+Recording stopped because your disk is almost full.	磁盘空间即将用尽，录制已停止。
+Screen Recording stopped unexpectedly.	屏幕录制意外停止。
+Application quit unexpectedly, but your recording was recovered and saved to the export location.	应用意外退出，但你的录制已恢复并保存到导出位置。
+CleanShot recovered your recording	CleanShot 已恢复你的录制
+Your screen recording has been successfully recovered.	你的屏幕录制已成功恢复。
+Exporting video…	正在导出视频…
+Exporting video	正在导出视频
+Export was canceled.	导出已取消。
+Trimming video...	正在裁剪视频…
+Do you want to trim the video?	要裁剪视频吗？
+The video will not be trimmed.	视频不会被裁剪。
+Split Zoom at Playhead	在播放头处拆分缩放
+Zoom Timeline In	放大时间线
+Zoom Timeline Out	缩小时间线
+Zoom Timeline to Fit	缩放时间线以适应
+Apply Zoom Level to All	将缩放级别应用到全部
+Click or drag to add zoom	点击或拖动以添加缩放
+Your video has been successfully exported. File size:	视频已成功导出。文件大小：
+Show key	显示按键
+Show all	显示全部
+Mute Audio	静音
+Aspect ratio	宽高比
+Show camera	显示摄像头
+Flip camera	翻转摄像头
+System audio	系统音频
+Font size	字号
+Custom color	自定义颜色
+Video Preview	视频预览
+Delete All	全部删除
+Keep History	保留历史
+Crop & Resize Tool	裁剪与调整大小工具
+Filled Rectangle	实心矩形
+Filled Rectangle Tool	实心矩形工具
+Highlighter Tool	荧光笔工具
+Increase Tool Size	增大工具尺寸
+Decrease Tool Size	减小工具尺寸
+Can't add new color	无法添加新颜色
+You’ve reached the limit of saved colors. To add a new one, please delete an existing color first.	已达到保存颜色的上限。如需添加新颜色，请先删除一个已有颜色。
+Remember if background tool was opened	记住背景工具是否曾打开
+Automatically expand canvas	自动扩展画布
+Scale image to fit on one page	缩放图片以适应单页
+To enable magnifier, you must enable Crosshair Mode first.	要启用放大镜，需先启用十字准星模式。
+How to select an area?	如何选择区域？
+How to use the text recognition tool?	如何使用文字识别工具？
+No text detected	未检测到文字
+System Accent color	系统强调色
+Compatibility warning	兼容性警告
+Another app used CleanShot to capture your screen	其他应用通过 CleanShot 捕捉了你的屏幕
+CleanShot has received a command request from an external app. Do you want to allow third-party apps to execute commands and access your screen?	CleanShot 收到来自外部应用的命令请求。是否允许第三方应用执行命令并访问你的屏幕？
+Are you sure you want to delete all files from history?	确定要删除历史记录中的全部文件吗？
+Are you sure you want to delete this recording?	确定要删除此录制吗？
+Are you sure you want to remove the audio track?	确定要移除音轨吗？
+Clear History...	清除历史记录…
+Do you want to open this link?	要打开此链接吗？
+Do you want to replace the existing video?	要替换现有视频吗？
+Do you want to save the changes made to this project?	要保存对此项目的修改吗？
+Do you want to save the changes you made to the screenshot?	要保存你对截图所做的修改吗？
+Do you want to save your project before closing?	关闭前要保存项目吗？
+Your changes will be lost if you don't save it.	如果不保存，你的修改将会丢失。
+Your changes will be lost if you don't save them.	如果不保存，你的修改将会丢失。
+You may lose the file if it hasn't been saved.	如果尚未保存，文件可能会丢失。
+Your media will be lost if you didn't save it.	如果尚未保存，你的媒体文件将会丢失。
+Something went wrong saving your file.	保存文件时出错。
+The export is still in progress. Do you want to cancel it?	导出仍在进行中。要取消吗？
+The upload is still in progress. Do you want to cancel it?	上传仍在进行中。要取消吗？
+The upload progress will be lost.	上传进度将会丢失。
+Cancel Processing...	取消处理…
+Select "CleanShot Project" if you want to edit the screenshot later, otherwise select other format.	如果之后还想编辑这张截图，请选择“CleanShot 项目”，否则请选择其他格式。
+Select **Capture History...** from CleanShot menu to restore closed files.	在 CleanShot 菜单中选择**截图历史…**即可恢复已关闭的文件。
+Capture History is disabled.	截图历史已关闭。
+CleanShot X couldn't find any recent captures to restore.	CleanShot X 找不到可恢复的近期截图。
+Can't restore any files	无法恢复任何文件
+CleanShot is ready to use!	CleanShot 已准备就绪！
+Notification Settings…	通知设置…
+Notification permission granted.	已获得通知权限。
+Allow Notifications...	允许通知…
+Allow Notifications…	允许通知…
+Your free disk space is low.	可用磁盘空间不足。
+The disk is full.	磁盘已满。
+The file is too big.	文件过大。
+No video file provided.	未提供视频文件。
+The source file does not contain a video track.	源文件不包含视频轨道。
+The source file does not appear to be a valid format	源文件格式似乎无效
+You’ve selected two actions that use the clipboard. Choose what should be copied.	你选择了两个都会用到剪贴板的操作。请选择要复制的内容。
+Please select at least one thing that should happen after capturing your screen.	请至少选择一项截图后要执行的操作。
+Passphrase is required for import/export.	导入/导出需要密码。
+Unknown format in import.	导入格式无法识别。
+Read this License Agreement carefully. By clicking on the "Agree" button you agree to be bound by the terms of the License Agreement.	请仔细阅读本许可协议。点击“同意”按钮即表示你同意接受本许可协议的约束。
+Show Key	显示按键
+Show All	显示全部
+Aspect Ratio	宽高比
+Show Camera	显示摄像头
+Flip Camera	翻转摄像头
+System Audio	系统音频
+Font Size	字号
+Custom Color	自定义颜色
+Start Capture	开始捕捉
+Rotate	旋转
+Flip Horizontal	水平翻转
+Extract	提取
+Resize Image	调整图片大小
+Drag Me	拖动我
+Copy Link	复制链接
+Upload to Cloud	上传到云
+Link copied	链接已复制
+Record Video	录制视频
+Record GIF	录制 GIF
+Record Camera	录制摄像头
+Show Keystrokes	显示按键
+Text style	文字样式
+App	应用
+Capture	捕捉
+Sounds	声音
+Export	导出
+Search shortcuts	搜索快捷键
+Choose…	选择…
+You can set a custom wallpaper to hide desktop icons in [wallpaper settings](	你可以在 [壁纸设置](
+Toggle Pins Visibility	切换钉图可见性
+Open Annotate tool (⌘E)	打开标注工具 (⌘E)
+Open Video Editor (⌘E)	打开视频编辑器 (⌘E)
+Save to export location (⌘S)	保存到导出位置 (⌘S)
+Copy to clipboard (⌘C)	复制到剪贴板 (⌘C)
+Copy link to clipboard (⌘U)	复制链接到剪贴板 (⌘U)
+Upload to CleanShot Cloud (⌘U)	上传到 CleanShot 云 (⌘U)
+Start/Stop Capturing	开始/停止捕捉
+Pause/Resume Recording	暂停/继续录制
+Start GIF Recording	开始 GIF 录制
+Move Playhead Back 10 Frames	播放头后退 10 帧
+Move Playhead Forward 10 Frames	播放头前进 10 帧
+Move Playhead to End	播放头移到末尾
+Move Playhead to Start	播放头移到开头
+Move Playhead to Next Frame	播放头移到下一帧
+Move Playhead to Previous Frame	播放头移到上一帧
+Move Playhead to Next Clip Edge	播放头移到下一个片段边界
+Move Playhead to Previous Clip Edge	播放头移到上一个片段边界
+Bring All to Front	全部置于顶层
+Delete	删除
+Move	移动
+Unlock	解锁
+Lock	锁定
+3.  Choose **Screenshots** from the list on the left.	3.  在左侧列表中选择**截图**。
+Output	输出
+Background	背景
+Sign In	登录
+Sign-in	登录
+Sign in with CleanShot Cloud	登录 CleanShot 云
+Menu bar	菜单栏
+Startup	启动
+Menu bar icon	菜单栏图标
+Apply Background Tool preset to all screenshots. You can create presets in Annotate. Hold ⇧ Shift while capturing a screenshot to disable this option.	将「背景工具」预设应用到所有截图。你可以在「标注」中创建预设。截图时按住 ⇧ Shift 可临时关闭此选项。
+Apply background tool preset to all screenshots. You can create presets in Annotate. Hold ⇧ Shift while capturing a screenshot to disable this option.	将「背景工具」预设应用到所有截图。你可以在「标注」中创建预设。截图时按住 ⇧ Shift 可临时关闭此选项。
+You can customize the wallpaper in [wallpaper settings](	你可以在 [壁纸设置](
+Add a 1px border to all screenshots	为所有截图添加 1 像素边框
+Press keys to record a shortcut	按下按键以录制快捷键
+Shortcut	快捷键
+Settings	设置
+Appearance	外观
+Auto-Close	自动关闭
+Interval	间隔
+Cursor	光标
+Keystrokes	按键显示
+Options…	选项…
+Frame rate	帧率
+Updates	更新
+License	许可证
+Links	链接
+Website	官网
+Changelog	更新日志
+EULA	最终用户许可协议
+Sign In…	登录…
+Learn more…	了解更多…
+Padding	边距
+Open	打开
+Show in Finder	在访达中显示
+Copy	复制
+Paste	粘贴
+Remove	移除
+Add	添加
+Done	完成
+Cancel	取消
+OK	好
+Reset	重置
+On	开
+Off	关
+Enabled	已启用
+Show	显示
+Hide	隐藏
+Always	始终
+Custom	自定义
+Automatic	自动
+Manual	手动
+# ── 第五批：CoreText 渲染层实测补充 ──
+Select Window	选择窗口
+Restart Recording	重新开始录制
+Pin	钉住
+Close All Pins	关闭所有钉图
+Open File	打开文件
+Duplicate Object	复制对象
+Print	打印
+Annotate tools	标注工具
+Background Tool	背景工具
+Move Tool	移动工具
+Draw Tool	画笔工具
+Line Tool	直线工具
+Text Tool	文字工具
+Arrow Tool	箭头工具
+Counter Tool	计数器工具
+Ellipse Tool	椭圆工具
+Redaction Tool	打码工具
+Spotlight Tool	聚光灯工具
+Rectangle Tool	矩形工具
+Video Editor	视频编辑器
+Selection Tool	选择工具
+Cut Tool	裁剪工具
+Split Clip at Playhead	在播放头处分割片段
+Deselect All	取消全选
+Fit Timeline to View	时间轴适应窗口
+Export Video	导出视频
+Options	选项
+Use System Default Shortcuts…	使用系统默认快捷键…
+Overlay size	浮层尺寸
+Behavior	行为
+Auto-close	自动关闭
+Reset Defaults	恢复默认
+Crosshair	十字准星
+Crosshair Mode	十字准星模式
+Max resolution	最大分辨率
+Audio	音频
+Audio tracks	音轨
+Resolution	分辨率
+Quality	画质
+Tools	工具
+Window	窗口
+Accessibility	辅助功能
+Pinned Screenshots	钉住的截图
+Other	其他
+Analytics	数据分析
+Copied!	已复制！
+© MTW 2018-2026. All Rights Reserved.	© MTW 2018-2026. 保留所有权利。
+Downloading update...	正在下载更新…
+A new update is available...	有新版本可用…
+Restore	恢复
+Recovered Files	已恢复的文件
+Free up disk space	释放磁盘空间
+Manage	管理
+Unlink	取消关联
+Add background	添加背景
+Add new preset	新建预设
+Add screenshot	添加截图
+Always enabled	始终启用
+After 1 day	1 天后
+After 7 days	7 天后
+After 14 days	14 天后
+After 30 days	30 天后
+After 90 days	90 天后
+After 365 days	365 天后
+
+# ── 第六批：Markdown 解析后文本 + 运行时格式串 ──
+You can set a custom wallpaper to hide desktop icons in wallpaper settings.	你可以在「壁纸设置」中设置自定义壁纸来隐藏桌面图标。
+Hold ⇧ Shift while taking a screenshot to get a transparent background. You can customize the wallpaper in wallpaper settings.	截图时按住 ⇧ Shift 可获得透明背景。你可以在「壁纸设置」中自定义壁纸。
+wallpaper settings	壁纸设置
+URL scheme API	URL 协议 API
+%lld fps	%lld 帧/秒
+%d fps	%d 帧/秒
+© MTW 2018-%@. All Rights Reserved.	© MTW 2018-%@. 保留所有权利。
+Press keys to record	按下按键以录制
+
+# ── 第七批：设置页之外的界面文案 ──
+Video Projects	视频项目
+CleanShot Project	CleanShot 项目
+Close Project	关闭项目
+Delete Project	删除项目
+Couldn't rename the project	无法重命名项目
+Replace Video	替换视频
+Save as a Video	存储为视频
+Export complete	导出完成
+Export Failed	导出失败
+Cancel Export	取消导出
+Trim Only	仅裁剪
+Don't Trim	不裁剪
+Remove Cut	移除剪切
+Separate tracks	分离音轨
+Animate clicks	动画点击
+Highlight Clicks	高亮点击
+Zoom animations	缩放动画
+Zoom level	缩放级别
+Zoom Level	缩放级别
+Zoom mode	缩放模式
+Zoom Mode	缩放模式
+Remove All Zooms	移除所有缩放
+Go to Start	跳到开头
+Go to End	跳到末尾
+Fit Canvas	适应画布
+Press to stop recording	按下以停止录制
+Recording Stopped	录制已停止
+Start capturing	开始捕捉
+Take Screenshot	截取屏幕
+Redaction style	遮挡样式
+Spotlight shape	聚光灯形状
+Arrow style	箭头样式
+Rounded Corners	圆角
+Flip Image	翻转图像
+Blur background	模糊背景
+Plain color	纯色
+Black Out	黑色遮挡
+Blur (secure)	模糊（安全）
+Ripple animation	波纹动画
+Press effect	按压效果
+Motion Blur	动态模糊
+Crop & Resize	裁剪与调整大小
+Custom Ratio	自定义比例
+Original Ratio	原始比例
+Original (Pro)	原始（专业版）
+Self destruct: (Pro)	自动销毁：（专业版）
+Extract text	提取文字
+Snap to edges	吸附到边缘
+Wallpaper image	壁纸图像
+Optimized for sharing	已针对分享优化
+Scale to fit on one page	缩放以适应一页
+Drag me	拖动我
+Default Preset	默认预设
+My Preset	我的预设
+My preset	我的预设
+Delete preset	删除预设
+Delete shortcut	删除快捷键
+Shortcuts not disabled	快捷键未禁用
+Show all keys	显示所有按键
+Show more	显示更多
+Reset to default	恢复默认
+Upload Complete	上传完成
+Upload error	上传错误
+Upload disabled	上传已禁用
+Cancel Upload	取消上传
+Keep Uploading	继续上传
+Stop Uploading	停止上传
+Stop Processing	停止处理
+Login error	登录错误
+Sign Out	退出登录
+Follow @CleanShot	关注 @CleanShot
+Click here to preview	点击此处预览
+Don't Save	不保存
+Don't Merge	不合并
+Don't ask again	不再询问
+Don’t ask again	不再询问
+Don't ask for confirmation	不再确认
+Don't warn me again	不再提醒
+Save All	全部保存
+Save and exit	保存并退出
+Close All	全部关闭
+Close Window	关闭窗口
+Move to Trash	移到废纸篓
+Reveal in Finder	在访达中显示
+Open With	打开方式
+Quick Look	快速查看
+Do you want to close all overlays?	确定要关闭所有浮层吗？
+Do you want to continue?	要继续吗？
+Are you sure you want to stop the conversion?	确定要停止转换吗？
+Are you sure you want to stop the processing?	确定要停止处理吗？
+Are you sure you want to stop the uploading?	确定要停止上传吗？
+Welcome to CleanShot X	欢迎使用 CleanShot X
+Tweak your workflow	优化你的工作流
+Ready to go!	准备就绪！
+Let's do it!	开始吧！
+Got it	知道了
+Got it!	知道了！
+I'll do it later	稍后再说
+No, thanks	不用了，谢谢
+Do you like CleanShot?	你喜欢 CleanShot 吗？
+Upgrade to Pro…	升级到专业版…
+Menu Bar	菜单栏
+Audio Recording Failed	音频录制失败
+Audio input error	音频输入错误
+Audio output error	音频输出错误
+Audio settings error	音频设置错误
+Video input error	视频输入错误
+Video settings error	视频设置错误
+Microphone error	麦克风错误
+Camera device not found	未找到摄像头设备
+Camera writer error	摄像头写入错误
+Screen content error	屏幕内容错误
+Screen display error	屏幕显示错误
+Screen stream error	屏幕流错误
+User canceled GIF creation	用户取消了 GIF 创建
+File manager is not available	文件管理器不可用
+HEIC Image	HEIC 图像
+PNG Image	PNG 图像
+Image only	仅图像
+File only	仅文件
+Image size:	图像大小：
+Data too long	数据过长
+Incomplete data	数据不完整
+Invalid character	无效字符
+Invalid data	无效数据
+Fatal error	致命错误
+Out of memory	内存不足
+Place on the left	置于左侧
+Place on the right	置于右侧
+Place on the top	置于顶部
+Place on the bottom	置于底部
+Chinese (Traditional)	中文（繁体）
+Arabic (Najdi)	阿拉伯语（纳吉迪）
+Norwegian (Nynorsk)	挪威语（新诺斯克）
+Mac Catalyst App	Mac Catalyst 应用
+
+# ── 第八批：对话框与提示整句 ──
+Are you sure you want to cancel this recording and start a new one?	确定要取消此录制并开始新的录制吗？
+Are you sure you want to close this recording?	确定要关闭此录制吗？
+Unable to capture system audio. Do you want to continue recording without audio or stop the recording?	无法捕获系统音频。要在无音频的情况下继续录制，还是停止录制？
+Your recording has been saved and is not affected — the microphone and system audio simply remain on separate tracks.	你的录制已保存且不受影响——麦克风与系统音频只是保留在各自独立的音轨上。
+The video cannot be trimmed. Please try again.	无法裁剪该视频。请重试。
+The export is still in progress. You'll need to start over if you stop now.	导出仍在进行中。若现在停止，需要重新开始。
+The upload is still in progress. You'll need to start over if you stop now.	上传仍在进行中。若现在停止，需要重新开始。
+There was an error while completing your upload.	完成上传时出错。
+There was an error while compressing your image.	压缩图像时出错。
+There was an error while uploading your file.	上传文件时出错。
+There was an error while uploading your image.	上传图像时出错。
+An error occurred with screen recording.	屏幕录制时出错。
+An error occurred while processing the video file.	处理视频文件时出错。
+An error occurred while creating the file	创建文件时出错
+An error occurred while opening the file	打开文件时出错
+An error occurred while saving the file	存储文件时出错
+An error occurred while opening the project	打开项目时出错
+An error occurred while saving the project	存储项目时出错
+Import/Export format unsupported.	不支持该导入/导出格式。
+It looks like you haven't disabled Screenshots shortcuts.	似乎你还没有禁用「截屏」快捷键。
+It will decrease the quality of your screenshots.	这会降低截图质量。
+You are not logged in.	你尚未登录。
+You need to log in first.	你需要先登录。
+Looks like your Internet connection is down.	似乎你的网络连接已断开。
+Payment failed. Please check your billing settings...	支付失败。请检查你的账单设置…
+Please slow down...	请慢一点…
+Uninstalled all integrations.	已卸载所有集成。
+The user name or passphrase you entered is not correct.	你输入的用户名或密码不正确。
+The operation you requested is not supported by this key.	该密钥不支持你请求的操作。
+The padding you requested is not supported.	该密钥不支持你请求的填充方式。
+You can’t undo this action.	此操作无法撤销。
+Your changes will be lost if you exit.	退出后你的更改将丢失。
+Send to Raycast AI Chat	发送到 Raycast AI 对话
+Save All...	全部保存...
+Save As...	存储为...
+Close All...	全部关闭...
