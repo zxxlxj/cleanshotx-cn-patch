@@ -156,6 +156,7 @@ CleanShot X 5.0 把设置界面重写成了 SwiftUI，单一手段覆盖不全�
 .
 ├── README.md                     # 本文件
 ├── LICENSE                       # MIT
+├── publish.sh                    # 一键发布到自己的 GitHub（仅维护者用）
 ├── src/
 │   ├── CleanShotCN.m             # 注入库源码：三条通道 + 运行时翻译表
 │   └── translations.txt          # 词条表（唯一数据源，1011 条）
